@@ -1,6 +1,6 @@
 package com.example.sharedpreferences1;
 
-import android.content.SharedPreferences;
+import android.content.SharedPreferences; 
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
